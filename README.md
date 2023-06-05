@@ -22,9 +22,8 @@ Hi, I'm Joaquin Bolzon!
 <hr>
 
 <pre>
-💻 I am a self taught Full Stack Developer
-📚 I have a Bachelors in Computer Science from the University Cadi Ayyad at Morocco
-📝 I have a strong interest in Web Design
+💻 I am a Full Stack Developer graduated from Soy Henry!
+📝 I have a strong interest in Apps and Webs designs
 🌟 Main languages: JavaScript
 🤔 I’m currently open for: a new <b>job opportunity</b>
 </pre>
