@@ -15,7 +15,7 @@ Hi, I'm Joaquin Bolzon!
 <br/>
 <p align="center">
 	<a href="https://github.com/joacobolzon">
-		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer ;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Web+Developer;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 
