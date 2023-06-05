@@ -31,9 +31,9 @@ Hi, I'm Joaquin Bolzon!
 
 ## 🤝 Connect with me
 <p align="center">
-	<a href="mailto:joacobolzon3@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
-	<a href="https://www.linkedin.com/in/joaquin-bolzon-b83a9a24a/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-	<a href="https://github.com/joacobolzon"><img src="https://img.shields.io/badge/github-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
+	<a href="mailto:joacobolzon3@gmail.com"><img img src="https://img.shields.io/badge/Gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
+	<a href="https://www.linkedin.com/in/joaquin-bolzon-b83a9a24a/"><img src="https://img.shields.io/badge/Linkedin-%230A66C2.svg?style=plastic&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+	<a href="https://github.com/joacobolzon"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=plastic&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
 ## 🛠️ My Favorite Tools
@@ -47,7 +47,7 @@ Hi, I'm Joaquin Bolzon!
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/joacobolzon"><img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-CSS-red"></a>
+    <a href="https://github.com/joacobolzon"><img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind.css-red"></a>
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
