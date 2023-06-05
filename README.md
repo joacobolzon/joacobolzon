@@ -78,7 +78,7 @@ Hi, I'm Joaquin Bolzon!
 ## <a href="https://github.com/joacobolzon"><img src="https://www.blumbergdigital.com/wp-content/uploads/2020/10/stats-graphic-statistics-business-512.png" width="30"></a> GitHub Stats
 
 <br/>
-<summary><b>⚡ Bouaskaoun's Stats</b></summary>
+<summary><b>⚡ My Stats</b></summary>
 <br/>
 <p align="center">
 	<a href="https://github.com/joacobolzon">
