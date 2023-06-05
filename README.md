@@ -42,12 +42,20 @@ Hi, I'm Joaquin Bolzon!
 
 <p>
     <a href="https://github.com/joacobolzon"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red"></a>
+    <a href="https://github.com/joacobolzon"><img alt="HTML" src="https://img.shields.io/badge/-HTML-red"></a>
+    <a href="https://github.com/joacobolzon"><img alt="CSS" src="https://img.shields.io/badge/-CSS-red"></a>
     <a href="https://github.com/joacobolzon"><img alt="React" src="https://img.shields.io/badge/-React.js-red"></a>
+    <a href="https://github.com/joacobolzon"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-red"></a>
+    <a href="https://github.com/joacobolzon"><img alt="Redux" src="https://img.shields.io/badge/-Redux-red"></a>
+    <a href="https://github.com/joacobolzon"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-red"></a>
+    <a href="https://github.com/joacobolzon"><img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-red"></a>
 
 ### 🧰 Frameworks and Libraries
 
 <p>
-    <a href="https://github.com/joacobolzon"><img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind.css-red"></a>
+    <a href="https://github.com/joacobolzon"><img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind%20CSS-green"></a>
+    <a href="https://github.com/joacobolzon"><img alt="Express.js" src="https://img.shields.io/badge/-Express.js-green"></a>
+	
 </p>
 
 ### 🗄️ Databases and Cloud Hosting
