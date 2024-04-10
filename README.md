@@ -45,6 +45,7 @@ Hi, I'm Joaquin Bolzon!
     <a href="https://github.com/joacobolzon"><img alt="HTML" src="https://img.shields.io/badge/-HTML-red"></a>
     <a href="https://github.com/joacobolzon"><img alt="CSS" src="https://img.shields.io/badge/-CSS-red"></a>
     <a href="https://github.com/joacobolzon"><img alt="React.js" src="https://img.shields.io/badge/-React.js-red"></a>
+    <a href="https://github.com/joacobolzon"><img alt="Typescript.js" src="https://img.shields.io/badge/-Typescript-red"></a>
     <a href="https://github.com/joacobolzon"><img alt="Node.js" src="https://img.shields.io/badge/-Node.js-red"></a>
     <a href="https://github.com/joacobolzon"><img alt="Redux" src="https://img.shields.io/badge/-Redux-red"></a>
 
