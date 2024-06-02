@@ -38,7 +38,7 @@ Hi, I'm Joaquin Bolzon!
 
 ## 🛠️ My Favorite Tools
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Tech Stack
 
 <p>
     <a href="https://github.com/joacobolzon"><img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-red"></a>
