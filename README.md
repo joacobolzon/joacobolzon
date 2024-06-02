@@ -61,6 +61,7 @@ Hi, I'm Joaquin Bolzon!
 <p>
     <a href="https://github.com/joacobolzon"><img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-blue"></a>
     <a href="https://github.com/joacobolzon"><img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-blue"></a>
+    <a href="https://github.com/joacobolzon"><img alt="MySQL" src="https://img.shields.io/badge/-MySQL-blue"></a>
     <a href="https://github.com/joacobolzon"><img alt="Cloudinary" src="https://img.shields.io/badge/-Cloudinary-blue"></a>
 </p>
 
