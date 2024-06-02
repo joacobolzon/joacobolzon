@@ -22,9 +22,9 @@ Hi, I'm Joaquin Bolzon!
 <hr>
 
 <pre>
-💻 I am a Full Stack Developer graduated from Soy Henry!
+💻 I am a Web Developer graduated from Soy Henry!
 📝 I have a strong interest in Apps and Webs designs
-🌟 Main languages: JavaScript
+🌟 Usually work with: HTML, CSS, JavaScript
 🤔 I’m currently open for: a new <b>job opportunity</b>
 </pre>
 <hr>
