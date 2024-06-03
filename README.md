@@ -22,7 +22,7 @@ Hi, I'm Joaquin Bolzon!
 <hr>
 
 <pre>
-💻 I am a Web Developer graduated from Soy Henry!
+💻 I am a Web Developer!
 📝 I have a strong interest in Apps and Webs designs
 🌟 Usually work with: HTML, CSS, JavaScript
 🤔 I’m currently open for: a new <b>job opportunity</b>
