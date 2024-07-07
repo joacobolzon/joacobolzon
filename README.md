@@ -120,7 +120,7 @@ You can hire me at <a href="https://www.linkedin.com/in/enzo-joaquin-bolzon-b83a
   </td>
   <td width="50%" valign="top">
 
-## It's not perfect, isn't it?
+## Because of coding, life is better
 
 **<a href="https://github.com/joacobolzon"><img alt="Feedback" src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg"></a>**
 
